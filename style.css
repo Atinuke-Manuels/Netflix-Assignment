@@ -85,7 +85,10 @@
     padding: 0;
     width: max-content;
 }
-
+video{
+    width:300;
+    height: 200px;
+}
 .wrapper2 {
     background-color: black;
     color: white;
