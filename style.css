@@ -37,7 +37,7 @@
     justify-content: space-between;
     color: white;
     padding: 0px 20px 20px 20px;
-    margin-bottom: 120px;
+    margin-bottom: 100px;
     align-items: center;
 }
 
@@ -50,14 +50,14 @@
 
 .Unlimited {
     font-weight: 500px;
-    font-size: 45px;
+    font-size: 55px;
     color: white;
     margin-bottom: 0;
 }
 
 .limited {
     font-weight: 500px;
-    font-size: 40px;
+    font-size: 45px;
 }
 
 .emailfield {
