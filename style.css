@@ -234,6 +234,24 @@ a {
     text-decoration: none;
 }
 
+.tvcontainer{
+    position: relative;
+    padding-left: 50px;
+}
+
+.TV{
+    width: 85%;
+    top: 0;
+    left: 0;
+}
+
+video{
+    position: absolute;
+    top: 76px;
+    left:115px;
+}
+
+
 @media screen and (max-width: 787px) {
     .wrapper1, .heading7 , .lists ,.ready
     , .page6 , .emailfield2,.heading6 ,
