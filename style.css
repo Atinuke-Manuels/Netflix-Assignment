@@ -25,7 +25,8 @@
     width: 80px;
 
 }
-.netflix{
+
+.netflix {
     height: 150px;
     width: 150px;
     padding: 0;
@@ -237,23 +238,21 @@ a {
     text-decoration: none;
 }
 
-.tvcontainer{
+.tvcontainer {
     position: relative;
     padding-left: 50px;
 }
 
-.TV{
+.TV {
     width: 82%;
     top: 0;
     left: 0;
-   
+
 }
 
-video{
+video {
     position: absolute;
     top: 76px;
     left: 115px;
-    
+
 }
-
-
