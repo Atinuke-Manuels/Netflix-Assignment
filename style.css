@@ -256,3 +256,55 @@ video {
     left: 115px;
 
 }
+.wrapper {
+    background-color: black;
+    position: relative;
+    padding-bottom: 40px;
+
+}
+
+.download {
+    display: flex;
+    justify-content: space-between;
+    width: 310px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    height: 95px;
+    margin-bottom: 35px;
+    position: absolute;
+    bottom: 0px;
+    left: 93px;
+    background-color: black;
+}
+
+.text5 {
+    display: block;
+    line-height: 25%;
+    margin: auto;
+}
+
+.woman {
+    z-index: -1;
+}
+
+.text5 h3, .text5 p {
+    color: white;
+    font-size: 20px;
+    background-color: black;
+}
+
+.book {
+    width: 60px;
+    height: 80px;
+    padding-left: 10px;
+}
+.woman img{width: 500px;
+height: 300px;
+
+}
+
+.icon {
+    width: 70px;
+    height: 60px;
+    padding: 15px 5px 15px 0px;
+}
